@@ -53,13 +53,6 @@ It’s like having a **senior DevOps engineer on call 24/7**, minus the Slack pi
 
 ```
 
-
-# 🚀 Deploai.dev — AI-powered DevOps, Simplified
-
-... (Intro / Features / Quick Start) ...
-
----
-
 ## 🤖 Why We Built Deploai
 
 DevOps is powerful, but it's also painfully complex. YAML fatigue is real.
